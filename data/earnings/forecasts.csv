@@ -1,0 +1,22 @@
+forecast_id,ticker,period,metric,currency,unit,forecast,forecast_date,source_id,original_dated_document,scope_verified,forecast_kind,notes
+ATW_2024_2025-01-09_RNPG_reported,ATW,FY2024,RNPG_reported,MAD,million,9258,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+BCP_2024_2025-01-09_RNPG_reported,BCP,FY2024,RNPG_reported,MAD,million,4586,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+BOA_2024_2025-01-09_RNPG_reported,BOA,FY2024,RNPG_reported,MAD,million,3253,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+CIH_2024_2025-01-09_RNPG_reported,CIH,FY2024,RNPG_reported,MAD,million,837,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+CDM_2024_2025-01-09_RNPG_reported,CDM,FY2024,RNPG_reported,MAD,million,704,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+CFG_2024_2025-01-09_RNPG_reported,CFG,FY2024,RNPG_reported,MAD,million,256,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+BCI_2024_2025-01-09_RNPG_reported,BCI,FY2024,RNPG_reported,MAD,million,408,2025-01-09,AGR_BANK_JAN25,True,True,analyst_forecast,
+ATW_2025_2025-07-22_RNPG_reported,ATW,FY2025,RNPG_reported,MAD,million,10394,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+BCP_2025_2025-07-22_RNPG_reported,BCP,FY2025,RNPG_reported,MAD,million,4821,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+BOA_2025_2025-07-22_RNPG_reported,BOA,FY2025,RNPG_reported,MAD,million,3741,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+CIH_2025_2025-07-22_RNPG_reported,CIH,FY2025,RNPG_reported,MAD,million,1088,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+CDM_2025_2025-07-22_RNPG_reported,CDM,FY2025,RNPG_reported,MAD,million,831,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+CFG_2025_2025-07-22_RNPG_reported,CFG,FY2025,RNPG_reported,MAD,million,363,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+BCI_2025_2025-07-22_RNPG_reported,BCI,FY2025,RNPG_reported,MAD,million,410,2025-07-22,AGR_BANK_JUL25,True,True,analyst_forecast,Newer February2026 report known; numerical update unavailable.
+AKT_2024_2024-07-03_RNPG_reported,AKT,FY2024,RNPG_reported,MAD,million,276,2024-07-03,AGR_AKT_JUL24,True,False,management_plan_derived,Pre-money plan assumptions; not an independently verified comparable analyst earnings forecast.
+AKT_2025_2024-07-03_RNPG_reported,AKT,FY2025,RNPG_reported,MAD,million,402,2024-07-03,AGR_AKT_JUL24,True,False,management_plan_derived,Pre-money plan assumptions; not an independently verified comparable analyst earnings forecast.
+MSA_2024_2024-11-27_RNPG_reported,MSA,FY2024,RNPG_reported,MAD,million,1150,2024-11-27,AGR_MSA_NOV24,True,True,analyst_forecast,
+MSA_2025_2024-11-27_RNPG_reported,MSA,FY2025,RNPG_reported,MAD,million,1265,2024-11-27,AGR_MSA_NOV24,True,True,analyst_forecast,
+MSA_2024_2025-02-21_RNPG_recurring,MSA,FY2024,RNPG_recurring,MAD,million,1200,2025-02-21,AGR_MSA_FEB25,True,False,analyst_forecast,Do not silently map recurring to reported. Later report blocks old November forecast.
+MSA_2025_2025-02-21_RNPG_recurring,MSA,FY2025,RNPG_recurring,MAD,million,1325,2025-02-21,AGR_MSA_FEB25,True,False,analyst_forecast,Do not silently map recurring to reported. Later report blocks old November forecast.
+AKT_2024_2024-10-02_net_income_consolidated,AKT,FY2024,net_income_consolidated,MAD,million,342,2024-10-02,AKT_INV_OCT24,True,False,management_plan,Wrong measure for RNPG; current PDF URL postdates event. Excluded.

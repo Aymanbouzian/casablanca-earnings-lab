@@ -1,0 +1,14 @@
+{
+  "research_date": "2026-11-10",
+  "forecast_revision_coverage_complete": false,
+  "corporate_actions_complete": false,
+  "historical_universe_complete": false,
+  "official_calendar_verified": false,
+  "peer_event_coverage_complete": false,
+  "sector_classification_verified": false,
+  "publication_time_coverage_complete": false,
+  "untouched_test_period": false,
+  "broker_execution_verified": false,
+  "prices_origin": "Unmodified user v6 exchange CSV archive; last session 2026-11-09",
+  "collection": "Public AMMC, issuer and AGR pages retrieved via indexed web and direct HTTP; numerical tables and image-only results manually checked. All 35 URLs attempted directly; successes and errors logged. No invented forecasts."
+}

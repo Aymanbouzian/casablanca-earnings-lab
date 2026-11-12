@@ -1,0 +1,5 @@
+date,event_id,ticker,status,shares,reason
+2025-03-21,AKT_FY2024,AKT,ENTRY_INTENT,40,quantity_from_prior_close_and_NAV
+2025-03-21,AKT_FY2024,AKT,ENTRY_FILLED,39,one_initial_fill_no_replenishment
+2025-03-21,AKT_FY2024,AKT,REMAINDER_CANCELLED,1,participation_cash_or_weight_limit
+2025-03-24,AKT_FY2024,AKT,TRIM_QUEUED,1,price_drift_cap_breach_next_session

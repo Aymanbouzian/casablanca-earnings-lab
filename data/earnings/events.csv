@@ -1,0 +1,16 @@
+event_id,ticker,period,metric,currency,unit,actual,publication_date,publication_time,first_publication_verified,actual_asof_verified,known_newer_revision_unresolved,actual_source_id,date_source_id,rounding_half_width,notes
+ATW_FY2024,ATW,FY2024,RNPG_reported,MAD,million,9504.486,2025-02-24,unknown_assume_end_of_day,False,True,False,ATW24,ATW_INDEX,0.0005,Original release dated 24 February; AMMC index 25 February. First public distribution time unresolved.
+BCP_FY2024,BCP,FY2024,RNPG_reported,MAD,million,4100.0,2025-02-28,unknown_assume_end_of_day,False,True,False,BCP24,BCP24_DATE,50.0,"Original headline 4.1 billion, rounded. Board date is not publication date."
+BOA_FY2024,BOA,FY2024,RNPG_reported,MAD,million,3427.0,2025-03-25,unknown_assume_end_of_day,False,True,False,BOA24,BOA24_DATE,0.5,Original image-only PDF downloaded and visually checked: RNPG3427m on page1. Regulator date25March remains a first-publication proxy; board21March is not substituted.
+CIH_FY2024,CIH,FY2024,RNPG_reported,MAD,million,875.9,2025-03-13,unknown_assume_end_of_day,False,True,False,CIH24,CIH24_DATE,0.0005,AMMC publication proxy; board met on two earlier dates. First distribution not independently established.
+CDM_FY2024,CDM,FY2024,RNPG_reported,MAD,million,740.949,2025-03-17,unknown_assume_end_of_day,True,True,False,CDM24,CDM24_DATE,0.0005,Issuer board and AMMC publication dated 17 March.
+CFG_FY2024,CFG,FY2024,RNPG_reported,MAD,million,262.0,2025-02-19,unknown_assume_end_of_day,True,True,False,CFG24,CFG_INDEX,0.5,Issuer statement and AMMC issuer index dated 19 February; daily AMMC news is next day.
+AKT_FY2024,AKT,FY2024,RNPG_reported,MAD,million,315.0,2025-03-20,unknown_assume_end_of_day,True,True,False,AKT24,AKT_INDEX,0.5,Dated issuer release and AMMC publication index agree on 20 March; full statements uploaded later.
+MSA_FY2024,MSA,FY2024,RNPG_reported,MAD,million,1267.0,2025-03-18,unknown_assume_end_of_day,True,True,True,MSA24,MSA_INDEX,0.5,Image-only original release checked visually: RNPG1267. AMMC index 18 March.
+ATW_FY2025,ATW,FY2025,RNPG_reported,MAD,million,10644.852,2026-02-24,unknown_assume_end_of_day,False,True,True,ATW25,ATW_INDEX,0.0005,Original reported RNPG; avoid using recurring growth percentage as a surprise.
+BCP_FY2025,BCP,FY2025,RNPG_reported,MAD,million,4500.0,2026-02-27,unknown_assume_end_of_day,False,True,True,BCP25,BCP_INDEX,50.0,"Original headline 4.5 billion, rounded."
+BOA_FY2025,BOA,FY2025,RNPG_reported,MAD,million,3813.0,2026-03-30,unknown_assume_end_of_day,False,True,True,BOA25,BOA25_DATE,0.5,"Original release gives RNPG3813 million, rounded."
+CIH_FY2025,CIH,FY2025,RNPG_reported,MAD,million,1089.4,2026-03-16,unknown_assume_end_of_day,False,True,True,CIH25,CIH25,0.0005,Original release RNPG1089.4 million; regulator date is only a proxy.
+CDM_FY2025,CDM,FY2025,RNPG_reported,MAD,million,864.0,2026-02-12,unknown_assume_end_of_day,True,True,True,CDM25,CDM25_DATE,0.5,"Original release RNPG864 million, rounded."
+CFG_FY2025,CFG,FY2025,RNPG_reported,MAD,million,370.445,2026-02-18,unknown_assume_end_of_day,False,True,True,CFG25,CFG_INDEX,0.0005,Original consolidated accounts RNPG370445 thousand MAD.
+AKT_FY2025,AKT,FY2025,RNPG_reported,MAD,million,444.0,2026-03-26,unknown_assume_end_of_day,False,True,False,AKT25,AKT_INDEX,0.5,"Forecast from July2024 is too old for this event; retained as exclusion, not signal."

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+data/prices/
+source_cache/
+outputs/
+RESEARCH_REPORT.html
+RESEARCH_REPORT.md
+*.log
