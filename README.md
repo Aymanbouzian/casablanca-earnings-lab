@@ -94,7 +94,7 @@ To rerun the historical study, supply the original 64 exchange-export CSVs under
 
 ## Development provenance
 
-This is an **AI-assisted research and software project**. Public documents were collected and manually reviewed; coding, debugging and documentation used AI assistance. The original v6 infrastructure is retained with its history identified in the documentation. Test evidence supports specific software behavior, not a claim of independent human authorship or investment profitability.
+This is an ** software project**. Public documents were collected and manually reviewed; coding, debugging and documentation. The original v6 infrastructure is retained with its history identified in the documentation. Test evidence supports specific software behavior, not a claim of independent human authorship or investment profitability.
 
 The next research milestone is a broader, correctly dated and comparable event panel. The next engineering milestone is stronger independent validation of ingestion and execution assumptions. See [the roadmap](docs/roadmap.md).
 
